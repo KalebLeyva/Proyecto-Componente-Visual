@@ -15,7 +15,8 @@ Instalacion en netbeans
 5. En la lista de componentes, selecciona "CodigoBarra"
 6. Elige la categoría donde quieres colocarlo (ej. "Swing Controls")
 7. Haz clic en "Finish"
-   ![img1](Imagenes/imagen1.jpeg)
+
+![img1](Imagenes/imagen1.jpeg)
 
 El componente aparecerá ahora en tu paleta de NetBeans y podrás arrastrarlo a tus formularios como cualquier otro componente Swing.
 
