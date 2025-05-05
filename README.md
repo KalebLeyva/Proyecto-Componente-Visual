@@ -18,6 +18,10 @@ Instalacion en netbeans
 
 ![img1](Imagenes/imagen1.jpeg)
 
+![img2](Imagenes/imagen2.jpeg)
+
+![img3](Imagenes/imagen3.jpeg)
+
 El componente aparecerá ahora en tu paleta de NetBeans y podrás arrastrarlo a tus formularios como cualquier otro componente Swing.
 
 Uso
