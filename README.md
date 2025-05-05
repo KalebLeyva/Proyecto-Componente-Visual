@@ -6,7 +6,7 @@ Barra de Tareas Personalizada para NetBeans
 
 Si estás buscando una barra de tareas elegante y funcional para tus actividades, esta barra le dará vida a tusprogramas. 
 
-INSTALACIÓN EN NETBEANS
+Instalacion en netbeans
 ----------------------
 1. Compila el proyecto para generar el archivo JAR del componente
 2. En NetBeans, ve a Herramientas > Paleta > Swing/AWT Components
@@ -18,7 +18,7 @@ INSTALACIÓN EN NETBEANS
 
 El componente aparecerá ahora en tu paleta de NetBeans y podrás arrastrarlo a tus formularios como cualquier otro componente Swing.
 
-USO BÁSICO
+Uso
 ---------
 1. Arrastra el componente desde la paleta a tu formulario
 2. Por defecto aparecerá en la parte inferior (SOUTH)
@@ -66,15 +66,15 @@ Imagina tener esto en tus apps:
    - Visibilidad de elementos
    - Modo auto-ocultable
 
-PROPIEDADES CONFIGURABLES
+Propiedades Configurables
 ------------------------
- barraAnclada: true/false - controla si la barra se auto-oculta
- posicion: SOUTH/WEST/EAST - posición en el contenedor
- mostrarWifi: true/false - visibilidad icono WiFi
- mostrarBateria: true/false - visibilidad icono batería
- mostrarReloj: true/false - visibilidad reloj
- urlWhatsApp: URL para WhatsApp Web
- urlCalculadora: URL para calculadora
+ - barraAnclada: true/false - controla si la barra se auto-oculta
+ - posicion: SOUTH/WEST/EAST - posición en el contenedor
+ - mostrarWifi: true/false - visibilidad icono WiFi
+ - mostrarBateria: true/false - visibilidad icono batería
+ - mostrarReloj: true/false - visibilidad reloj
+ - urlWhatsApp: URL para WhatsApp Web
+ - urlCalculadora: URL para calculadora
 
 Creado por: 
 - **Leyva Solis Kaleb Daniel** 
