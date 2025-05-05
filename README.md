@@ -2,6 +2,7 @@
 Componente "Barra de Herramientas"
 
 Barra de Tareas Personalizada para NetBeans
+----------------------
 
 Si estás buscando una barra de tareas elegante y funcional para tus actividades, esta barra le dará vida a tusprogramas. 
 
@@ -76,5 +77,5 @@ PROPIEDADES CONFIGURABLES
  urlCalculadora: URL para calculadora
 
 Creado por: 
-**Leyva Solis Kaleb Daniel** 
-**Mendoza Martinez Eduardo Yael**
+- **Leyva Solis Kaleb Daniel** 
+- **Mendoza Martinez Eduardo Yael**
