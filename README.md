@@ -96,6 +96,8 @@ Propiedades Configurables
  - urlWhatsApp: URL para WhatsApp Web
  - urlCalculadora: URL para calculadora
 
+**COMPONENTE SOLO DISPONIBLE PARA LA VERSION Apache NetBeans IDE 24**
+
 Creado por: 
 - **Leyva Solis Kaleb Daniel** 
 - **Mendoza Martinez Eduardo Yael**
